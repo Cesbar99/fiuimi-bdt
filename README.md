@@ -1,2 +1,2 @@
-# fiuimi-bdt
+# fiumi-bdt
 project for bdt
